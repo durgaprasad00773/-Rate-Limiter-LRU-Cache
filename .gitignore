@@ -1,0 +1,24 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dSYM/
+
+# Specific binary names from this project
+main_demo
+benchmark_cache
+benchmark_ratelimiter
+main.exe
+lru.exe
+
+# Editor / OS junk
+.vscode/
+.vs/
+*.swp
+.DS_Store
+Thumbs.db
